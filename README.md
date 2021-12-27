@@ -1,3 +1,5 @@
+# **Kickstarting with Excel
+
 ## **Overview of Project**
 
 This research case study’s aim is to help Louise know the outcomes of the fundraising goal for certain type of projects within their launch dates. Louise does a wide variety of fundraising with Parent Categories ranging from Film & Video, technology, music to photography and Subcategories or genre under the Parent categories. 
