@@ -19,4 +19,10 @@ This formula helped changed Unix time format to a readable date. This mandatory 
 
 ![DateConversionFormula](https://github.com/Monsaiaung/kickstarter/blob/a3de16078ef19f66e4ec3b247dd761b50efaa842/Resources/DateConversionFormula.png)
 
+### Analysis of Outcomes Based on Launch Dates
+
+By using a pivot table tool, you can find out how many projects in the Theater Category (Parent Category) have a successful, failed or canceled fundraising within a time frame. The data used are outcomes in Legend (Series) box, Date Created Conversation in Axis (Categories) box, count of the outcomes in the value box and filtering by Parent Category and years. 
+There were no challenges, but a possible challenge would be not knowing which data to use and which axis the data belongs in.
+
+![Theater_LaunchDate_pivottable](https://github.com/Monsaiaung/kickstarter/blob/cc6345b494779ad62081443b1e0c4f62da78a667/Resources/Theater_LaunchDate_pivottable.png)
 
