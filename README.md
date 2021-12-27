@@ -17,6 +17,6 @@ There weren’t many difficult challenges but working with big data one must be 
 
 This formula helped changed Unix time format to a readable date. This mandatory change helped me getting the month data for Outcomes Based on Launch Date Deliverable. 
 
-![DateConversionFormula](C:\Users\Danie\OneDrive\Desktop\ColumbiaBootcamp\Modules\Module1Excel\Module1Challenge\Resources)
+![DateConversionFormula](https://github.com/Monsaiaung/kickstarter/blob/a3de16078ef19f66e4ec3b247dd761b50efaa842/Resources/DateConversionFormula.png)
 
 
